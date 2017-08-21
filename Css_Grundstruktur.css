@@ -1,0 +1,105 @@
+
+
+
+
+
+body
+{
+	background-color: white;
+	text-align: center;
+
+}
+
+	header
+	{
+	 background-color: red;
+	}
+
+		.header-content
+		{
+			background-color: pink; 
+			
+		}
+
+			.header-logo-wrapper
+			{
+				background-color: yellow;
+				height: 10%;
+				width: 20%;
+				display: block;
+				float: left;
+			}			
+
+			.header-info-wrapper
+			{
+				background-color: green;
+				height:10%;
+				 
+				
+				
+			}
+
+		.header-nav-bar
+		{
+			background-color: orange;
+			height:5%;
+		}
+		
+			ul
+			{
+				margin: 0;
+				padding: 0;
+			}
+		
+			li
+			{
+				float:left;
+				list-style: none;
+				margin-left: 5%;
+				background-color: lightblue;
+				
+			}
+
+		.header-sub-nav-bar
+		{
+			background-color: lightgreen;
+			height:5%;
+		}
+
+	.content-wrapper
+	{
+		background-color: magenta;
+		
+		
+	}
+
+		.content-banner-wrapper
+		{
+			background-color: purple;
+			height: 30%;			
+			
+			
+		}
+		
+		.content-page-content
+		{
+			background-color: olive;
+			height: 40%;
+			width: 80%;
+			margin-left: auto;	
+			margin-right: auto;				
+		
+		}
+		
+	.footer
+	{
+		background-color:  teal;
+		
+	}
+	
+		.footer-wrapper
+		{
+			background-color: aqua;
+			height: 10%;
+			
+		}
