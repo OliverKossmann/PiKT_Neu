@@ -1,0 +1,15 @@
+LOGO
+----
+DunkelBlau: 0c2866;
+HellBlau: 1591b2;
+
+MISC
+----
+Weiß: f3f3f3; (Hintergründe)
+Schwarz: 000000; (Textfarbe)
+
+GRAUSTUFEN
+----------
+HellGrau: e7e7e7;
+Grau: b5b5b5;
+DunkelGrau: 6b6b6b;
